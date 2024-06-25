@@ -1,0 +1,39 @@
+.container {
+    border: 1px solid #f1f1f1;
+    margin: auto;
+    padding: 50px
+  }
+  
+  fieldset.contenedor {
+    max-width: 650px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input.form-control {
+    width: 300px;
+  }
+  
+  button.btn {
+    white-space: nowrap;
+  }
+  
+  ul.list-group {
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .list{
+    display: flex;
+    align-items: end;
+    justify-self: end;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: transparent;
+  }
+  
